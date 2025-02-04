@@ -2,6 +2,7 @@
 ![](https://github.com/shiv0602/OLA-ride-Analysis-with-Power-BI-and-SQL/blob/main/Screenshots/Screenshot%202025-02-04%20222215.png)
 ![](https://github.com/shiv0602/OLA-ride-Analysis-with-Power-BI-and-SQL/blob/main/Screenshots/Screenshot%202025-02-04%20222237.png)
 ![](https://github.com/shiv0602/OLA-ride-Analysis-with-Power-BI-and-SQL/blob/main/Screenshots/Screenshot%202025-02-04%20222253.png)
+![](https://github.com/shiv0602/OLA-ride-Analysis-with-Power-BI-and-SQL/blob/main/Screenshots/Screenshot%202025-02-04%20222307.png)
 SQL Questions:
 
 1. Retrieve all successful bookings:
